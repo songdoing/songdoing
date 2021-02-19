@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning ReactJS.
 
-[<img align="center" src="https://github-readme-stats.vercel.app/api?username=songdoing&&hide=stars,contribs,prs,issues&count_private=true&show_icons=true&line_height=21" width="487">](https://github.com/anuraghazra/github-readme-stats)
+[<img align="center" src="https://github-readme-stats.vercel.app/api?username=songdoing&&hide=stars,contribs,prs,issues>](https://github.com/anuraghazra/github-readme-stats)
 [<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=songdoing&layout=compact">](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **songdoing/songdoing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
