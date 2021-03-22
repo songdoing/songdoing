@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently learning ReactJS.
 - 🔭 I’m currently working on my own projects.
+- 🤔 I’m also studying TypeScript.
 
 [<img align="center" src="https://github-readme-stats.vercel.app/api?username=songdoing&hide=stars,prs,issues,contribs&count_private=true&show_icons=true" width="487">](https://github.com/anuraghazra/github-readme-stats)
 [<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=songdoing&layout=compact">](https://github.com/anuraghazra/github-readme-stats)
